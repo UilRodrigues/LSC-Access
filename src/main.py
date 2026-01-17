@@ -1,3 +1,16 @@
+"""
+LSC Access – Research Prototype
+
+This code is experimental and intended for research purposes only.
+It does not represent a complete or linguistically validated LSC translator.
+
+The goal is to explore:
+- Text normalization
+- Gloss mapping
+- Sign language-friendly ordering
+"""
+
+
 #from removeTildes import remover_acentos
 from wordsLower import remover_palavras
 from text_processing import normalizar_texto, remover_palavras_fracas
