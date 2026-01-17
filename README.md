@@ -4,11 +4,12 @@ An open-source accessibility project aimed at reducing communication barriers fo
 # Overview
 LSC Access is an open accessibility project focused on improving access to digital information for deaf and non-verbal users through the conversion of written Spanish into Colombian Sign Language (LSC).
 The project aims to bridge the gap between digital content and sign language users by providing a scalable, language-agnostic infrastructure that can later be adapted to other sign languages and regions.
+This is not a full LSC translation system.
 # The Problem
 Most government platforms, institutional websites, and digital services do not provide sign language accessibility.
 As a result, deaf users often face barriers when accessing essential information such as public services, education, healthcare, and legal content.
 While text-based accessibility exists, it does not fully address the needs of users whose primary language is sign language.
-This is not a full LSC translation system.
+
 # Why This Matters
 Digital accessibility is not optional — it is a human right.
 Providing access to information in sign language:
